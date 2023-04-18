@@ -1,0 +1,17 @@
+.nav {
+    background-color: black;
+    width: 100%;
+    position: relative;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-link {
+    margin-right: 10px;
+}
+
+.text {
+    color: white;
+}
